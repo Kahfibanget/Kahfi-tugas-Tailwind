@@ -1,0 +1,92 @@
+.divqq{
+    margin: 0;
+    display: flex;
+    min-width: 320px;
+    min-height: 80vh;
+    place-items: center;
+    margin-left: 30.70%;
+}
+
+.divAll{
+    background-color: white;
+    height: 600px;
+    width: 490px;
+    border-radius: 15px;
+    border: solid black 2px;
+    text-align: center;
+    place-items: center;
+}
+
+.img{
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.h2{
+    margin-top: -10px;
+    color: black;
+    font-size: 30px;
+}
+
+.h4{
+    margin-top: -30px;
+    color: grey;
+}
+
+.h4input{
+    color: rgb(0, 0, 0);
+}
+
+.divinput{
+    color: black;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.input{
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+    height: 30px;
+    border: 1px transparent solid;
+    width: 370px;
+    color: black;
+    transition: border 0.1s linear;
+    cursor: text;
+}
+
+.input:hover{
+    border: solid gray 1px;
+}
+
+
+.btn{
+    margin-left: 300px;
+}
+.divvf{
+    display: flex;
+}
+.b{
+    color: black;
+    cursor: pointer;
+    font-size: 30px;
+    align-items: center;
+}
+.btnhs{
+    display: flex;
+    color: black;
+    margin-top: 1%;
+}
+.he{
+    margin-top: 11px;
+    margin-left: 5px;
+}
+.txt2{
+    margin-left: -375px;
+    margin-top: 8px;
+    position: absolute;
+    color: black;
+    transition: color 0.2s ease-in-out;
+    cursor: pointer;
+}.txt2:hover{
+    color: rgb(0, 161, 107);
+}

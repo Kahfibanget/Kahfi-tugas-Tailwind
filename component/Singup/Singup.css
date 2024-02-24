@@ -1,0 +1,41 @@
+.diff{
+    background-color: white;
+    color: black;
+    margin-left: 30%;
+    margin-top: 2%;
+    width: 600px;
+    height: 750px;
+    text-align: center;
+    border-radius: 10px;
+}
+.h23{
+    font-size: 40px;
+}
+.img23{
+    margin-top: 10px;
+}
+.h49{
+    margin-top: -30px;
+    color: grey;
+}
+.btnd{
+    margin-left: 75%;
+    margin-top: 6%;
+}
+.txt4{
+    margin-left: 3%;
+    margin-top: 3%;
+    position: absolute;
+    color: black;
+    transition: color 0.2s ease-in-out;
+    cursor: pointer;
+}.txt4:hover{
+    color: rgb(0, 161, 107);
+}
+.divbtn{
+    display: flex;
+    color: black;
+}
+.wa{
+    width: 500px;
+}

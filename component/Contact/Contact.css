@@ -1,0 +1,25 @@
+
+.hq{
+    color: black;
+    margin-left: 60%;
+    margin-top: 37px;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+}.hq:hover{
+    color: rgb(0, 94, 138);
+}
+.dsi{
+    background-color: white;
+    color: black;
+    margin-left: 20%;
+    margin-top: 2%;
+    width: 900px;
+    height: 200px;
+    text-align: left;
+}
+.imghh{
+    width: 50px;
+}
+.s{
+    display: flex;
+}

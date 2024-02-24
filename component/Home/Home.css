@@ -1,0 +1,64 @@
+.divwq{
+    place-items: left;
+    margin-left: -85px;
+    margin-top: -40px;
+}
+
+.headdde{
+    background-color: rgb(255, 255, 255);
+    width: 1442px;
+    height: 150px;
+    display: flex;
+}
+
+.h11{
+    color: black;
+    margin-top: 40px;
+}
+.btnlg{
+    margin-left: 20px;
+    height: 50px;
+    margin-top: 50px;
+}
+.div0{
+    margin-left: 5%;
+    text-align: center;
+}
+.mh{
+    width: 400px;
+    margin-left: 0%;
+    border-radius: 20px;
+}
+.mh1{
+    width: 1000px;
+    margin-left: 0%;
+    border-radius: 20px;
+}
+.dih1{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 5%;
+}
+.foot{
+    background-color: aliceblue;
+    color: black;
+    margin-left: 9px;
+    width: 1433px;
+    text-align: center;
+    margin-top: 100px;
+    height: 50px;
+    position: absolute;
+}
+.h4q{
+    color: black;
+    margin-left: 62%;
+    margin-top: 60px;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+}.h4q:hover{
+    color: rgb(0, 94, 138);
+}
+.imgg{
+    width: 150px;
+    height: 150px;
+}
